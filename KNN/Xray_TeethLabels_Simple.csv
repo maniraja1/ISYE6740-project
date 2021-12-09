@@ -1,0 +1,38 @@
+,Patient 1,Patient 2,Patient 3,Patient 4,Patient 5,Patient 6,Patient 7,Patient 8,Patient 9,Patient 10,Patient 11,Patient 12,Patient 13,Patient 14,Patient 15,Patient 16,Patient 17,Patient 18,Patient 19,Patient 20,Patient 21,Patient 22,Patient 23,Patient 24,Patient 25,Patient 26
+Sex,M,F,F,F,F,F,F,F,M,F,F,M,M,M,F,M,F,F,F,M,F,M,F,M,M,F
+Age,66,50,23,36,27,50,38,41,22,34,29,48,30,56,24,32,54,45,14,21,52,42,21,19,49,21
+Zip Code,44147,44094,44040,44094,44125,44122,44077,44132,44095,44123,44095,44124,44095,44122,44060,44319,44143,44095,44121,44136,44118,44132,44121,44026,44060,44121
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tooth #,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,,,No,Yes,No,,No,Yes,,No,Yes,,,,Yes,,,,Yes,No,No,,,,No,
+3,,,Yes,No,No,,No,Yes,,No,Yes,,,,Yes,,,,Yes,Yes,Yes,,,,No,
+4,,,No,No,Yes,,Yes,No,,Yes,Yes,,,,Yes,,,,Yes,Yes,Yes,,,,Yes,
+5,,,No,Missing,Yes,,Yes,No,,Yes,,,,,Yes,,,,Yes,No,Missing,,,,Yes,
+6,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,No,Yes,,,,No,,,Yes,,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,,,Yes,Yes,Yes,,No
+13,No,No,,,,No,,,Yes,,Yes,Missing,Yes,Yes,Yes,Yes,Yes,No,Yes,,,No,No,Yes,,Yes
+14,No,Yes,,,,No,,,Yes,,Yes,No,No,No,Yes,No,No,Yes,Yes,,,No,No,No,,No
+15,Yes,Yes,,,,No,,,No,,Yes,,No,Yes,No,No,No,No,No,,,No,No,No,,No
+16,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,No,No,,,,No,,,No,,Yes,No,No,No,Yes,No,No,No,No,,,No,No,No,,No
+19,No,Yes,,,,No,,,No,,Yes,No,No,No,Yes,No,No,No,Yes,,,No,No,Yes,,No
+20,No,Yes,,,,Yes,,,Yes,,Yes,Yes,Yes,No,Yes,No,No,No,Yes,,,No,No,Yes,,No
+21,No,No,,,,No,,,No,,Yes,Yes,Yes,No,Yes,No,No,No,No,,,No,Yes,Yes,,No
+22,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,,,,,,,,,,,,,,,,,,,,,,,,,,
+24,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,,,No,Missing,No,,No,No,,Yes,,,,,Yes,,,,No,No,Missing,,,,No,
+29,,,Yes,Yes,No,,No,No,,Yes,Yes,,,,Yes,,,,Yes,No,No,,,,No,
+30,,,Yes,No,No,,No,No,,Yes,Yes,,,,Yes,,,,No,Yes,No,,,,No,
+31,,,Yes,Yes,No,,No,No,,Yes,Yes,,,,Yes,,,,No,No,No,,,,Yes,
+32,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -32,6 +32,7 @@ Here is how the code is organized
 * ImageProcessing consists of code required to resize/standardize X Ray images. The images are processed and stored under processed/processed and processed/processed using this code
 * KNN consists of code required to train and validate class 2 decays using K nearest neighbor
 * SVM consists of code required to train and validate class 2 decays using support vector machines
+* Neural networks consists of code required to train and validate class 2 decays using convolution neurla networks
 * Processed2 consists of X Ray images which were processed to include individual tooth image from a bitewing X Ray
 * Processed3 consists of X Ray images which were processed to include the “kissing point” between adjacent teeth from a bitewing X Ray
 
